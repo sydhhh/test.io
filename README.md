@@ -11,6 +11,14 @@ You can use the [editor on GitHub](https://github.com/sydhhh/test.io/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+`###`
+
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+
+
 ### Markdown 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
