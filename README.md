@@ -15,8 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 `###`
 
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it. --Captain Janeway
 
 
 ### Markdown 1
